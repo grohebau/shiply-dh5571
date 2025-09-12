@@ -1,0 +1,47 @@
+{
+  "G09162": {
+    "status": "Versandvorbereitung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Bleichestraße 9, 79576 Weil am Rhein, Deutschland",
+    "receiver": "Marcus Zimmermann, Alte Biberacher Straße 7, 88447 Warthausen, Deutschland",
+    "price": "2.800 €",
+    "description": "Hersteller: Simson<br>Typ: S 51<br>Fahrgestelnummer: 5548804<br>Erstzulassung: 06/1985<br>KM laut Vorbesitzer: 16.210 km<br>Leistung: 3 kW (4 PS)<br>Hubraum: 49 cm³<br>Farbe: Weiß<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Marcus Zimmermann<br>Alte Biberacher Straße 7<br>88447 Warthausen<br>Deutschland<br>Telefon: +49 151 42432434",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "08-09-2025",
+    "deliveryDate": "16-09-2025, 11:30 Uhr",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
